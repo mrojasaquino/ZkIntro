@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 20, 2015, 7:18:31 PM
+    Author     : mrojas
+*/
+
+.breeze .complex-layout, .breeze .complex-layout .z-south,
+.breeze .complex-layout .z-west { background: #F7F7F7; }
+
+.z-borderlayout { background: #FFFFFF } 
+
+.complex-layout .z-north { background: #008BB6; } 
+
+img.complex-layout-header-img {padding: 0 10px; } 
+
+.complex-layout-header-label { position:relative; top: -30px; padding-left: 40px; font-size: 24px;
+color: White; font-weight: bold; } 
+
+.inner-border, .inner-border
+.z-north, .inner-border .z-west, .inner-border .z-south,
+.inner-border .z-east { background: #FFFFFF; } 
+
+.dl-link {text-decoration: none; cursor: pointer; }
